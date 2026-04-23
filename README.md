@@ -50,7 +50,7 @@ virustotal-benchmark/
 ### 1. Cloner le projet
 
 ```bash
-git clone https://github.com/votre-repo/VirusTotal-Scanner-Docker-vs-VM-Benchmark.git
+git clone https://github.com/Wassimmaatoug/VirusTotal-Scanner-Docker-vs-VM-Benchmark.git
 cd VirusTotal-Scanner-Docker-vs-VM-Benchmark
 ```
 
